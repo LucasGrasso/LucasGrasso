@@ -36,7 +36,6 @@ I'm Currently working as a Blockchain developer.
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![typescript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![cplusplus](https://img.shields.io/badge/C++-F16822?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Scientific Stack
@@ -50,5 +49,3 @@ I'm Currently working as a Blockchain developer.
 
 ### Portfolio
 https://lucasgrasso.com.ar/
-
-Conceptual portfolio, inspired by Microsoft Powershell. All credits to the images go to their respective authors and to [Google Earth View](https://earthview.withgoogle.com/).
