@@ -1,7 +1,7 @@
 ### [Lucas Grasso Ramos](https://lucasgrasso.com.ar/)
 ---
 
-Hello there, my name is Lucas Grasso Ramos and I'm a software dev thats specialized in Solidity, Typescript and Python. I have experience in Blockchain and Smart-Contract development, web development and in UI/UX design. Co-creator of [EIP-5516](https://eips.ethereum.org/EIPS/eip-5516).
+Hello there, my name is Lucas Grasso Ramos and I'm a software dev thats specialized in Rust, Solidity, Typescript and Python. I have experience in Blockchain and Smart-Contract development, web development and in UI/UX design. Co-creator of [EIP-5516](https://eips.ethereum.org/EIPS/eip-5516).
 
 I'm Currently working as a Blockchain developer.
 
