@@ -14,6 +14,7 @@ I'm Currently working as a Blockchain developer.
 ![polkadot](https://img.shields.io/badge/Polkadot-FF2670?style=for-the-badge&logo=polkadot&logoColor=white)
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white)
+![ethers](https://img.shields.io/badge/Ethers-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### Back-End Development
