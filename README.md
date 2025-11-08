@@ -7,7 +7,7 @@ I have experience in Blockchain and Smart-Contract development, web development 
 I'm Currently working as a Blockchain developer.
 
 ## Tech Stack
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGrasso&layout=compact&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGrasso&layout=compact&theme=dark&hide=Linear%20Progamming)
 
 ### Blockchain Development
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
