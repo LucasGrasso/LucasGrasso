@@ -5,7 +5,7 @@ Hello there, my name is Lucas Grasso Ramos and I'm a software dev thats speciali
 I have experience in Blockchain and Smart-Contract development, web development and in UI/UX design. Co-creator of [EIP-5516](https://eips.ethereum.org/EIPS/eip-5516).
 
 ## Tech Stack
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGrasso&layout=compact&theme=dark&hide=Linear%20Progamming,Jupyter%20Notebook)
+![Top Languages](./profile/top-langs.svg)
 
 ### Blockchain Development
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
