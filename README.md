@@ -1,57 +1,12 @@
 ### [Lucas Grasso Ramos](https://lucasgrasso.com.ar/)
 ---
 
-Hello there,
-I'm a software developer thats specialized in Solidity, Typescript, Python and Rust. \
-I have experience in Blockchain and Smart-Contract development, web development and in UI/UX design. Co-creator of [EIP-5516](https://eips.ethereum.org/EIPS/eip-5516).
+Hello there, \
+I'm a software developer specialized in Solidity, Typescript, Python and Rust. I have worked in Blockchain, Smart Contracts, AI and web.\
+Co-creator of [EIP-5516](https://eips.ethereum.org/EIPS/eip-5516).
 
-## Tech Stack
+Currently working in some AI and low-level blockchain projects.
+
+**Website**: [Portfolio](https://lucasgrasso.com.ar/)
+
 ![Top Languages](./profile/top-langs.svg)
-
-### Blockchain Development
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![polkadot](https://img.shields.io/badge/Polkadot-FF2670?style=for-the-badge&logo=polkadot&logoColor=white)
-![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white)
-![ethers](https://img.shields.io/badge/Ethers-2535A0?style=for-the-badge&logo=ethers&logoColor=white)
-![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-
-### Back-End Development
-
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![nestJS](https://img.shields.io/badge/NESTJS-c20c42?style=for-the-badge&logo=nestjs&logoColor=white)
-![nodejs](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![mongoDB](https://img.shields.io/badge/MongoDB-3FA037?style=for-the-badge&logo=mongodb&logoColor=white)
-![typeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-
-### Front-End Development
-![react](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML%](https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=HTML5&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![tailwindcss](https://img.shields.io/badge/TailwindCss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
-
-### Software Development
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![typescript](https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white)
-![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![rust](https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white)
-
-### Scientific Stack
-![numpy](https://img.shields.io/badge/NumPy-00aae4?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/Pandas-9B26B6?style=for-the-badge&logo=pandas&logoColor=white)
-![plotly](https://img.shields.io/badge/Plotly-3776AB?style=for-the-badge&logo=plotly&logoColor=white)
-![jupyter_notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### UX/UI Design
-![figma](https://img.shields.io/badge/Figma-AA336A?style=for-the-badge&logo=figma&logoColor=white)
-
-### Portfolio
-https://lucasgrasso.com.ar/
